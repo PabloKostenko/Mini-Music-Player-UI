@@ -38,7 +38,11 @@ Simple **MVVM**:
 
 ## ▶️ Demo
 
-Loom/video link: _[https://github.com/user-attachments/assets/5b3c3044-e648-458b-8f2f-794242b75e93]_
+<div align="center">
+
+  [▶️ Click to watch video](https://github.com/user-attachments/assets/5b3c3044-e648-458b-8f2f-794242b75e93)
+
+</div>
 
 ## 🏃 How to run
 
